@@ -90,7 +90,6 @@ Verified successful compromise of target system.
 - Recommended patching Samba
 
 
-
 ##  Mitigation Strategies
 - Disable unused services
 - Patch Samba vulnerabilities
@@ -100,11 +99,13 @@ Verified successful compromise of target system.
 
 
 
-##  Evidence
-Refer to `/screenshots` folder for:
-- Successful exploitation
-- Session establishment
-- Post-exploitation outputs
+## 📸 Evidence
+
+|       Step           |         Screenshot                |
+|----------------------|-----------------------------------|
+| Exploit Execution    | screenshots/1_ifconfig.png        |
+| Session Opened       | screenshots/3_Sus_Log_Entries.png |
+| Post Exploitation    | screenshots/2_ShellAccess.png     |
 
 
 ##  Key Learning Outcomes
