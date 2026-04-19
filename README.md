@@ -60,6 +60,19 @@ Metasploitable VM
 7. Gained remote shell access
 
 
+## 🖧 Attack Flow Diagram
+
+```mermaid
+flowchart TD
+A[Attacker Machine - Kali Linux] --> B[Metasploit Framework]
+B --> C[Exploit: Samba usermap_script]
+C --> D[Target: Metasploitable VM]
+D --> E[Remote Shell Access Gained]
+E --> F[Post Exploitation Commands]
+F --> G[Incident Response Simulation]
+G --> H[Mitigation & Cleanup]
+```
+
 
 ##  Post Exploitation Activities
 
