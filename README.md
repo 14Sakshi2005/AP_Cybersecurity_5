@@ -1,5 +1,11 @@
 # Capstone Project: Samba Exploitation & Incident Response Simulation
 
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Tool](https://img.shields.io/badge/Tool-Metasploit-red)
+![VM](https://img.shields.io/badge/Target-Metasploitable-orange)
+![Focus](https://img.shields.io/badge/Security-Pentesting-critical)
+
 ##  Overview
 This project demonstrates a controlled security assessment of a vulnerable system using Metasploit Framework. The objective was to identify, exploit, and analyze a known Samba vulnerability in a test environment and simulate a real-world incident response scenario.
 
@@ -20,6 +26,13 @@ Target system used: Metasploitable (intentionally vulnerable VM)
 - Analyze system compromise
 - Simulate incident response lifecycle
 
+##  Network Architecture
+
+Attacker Machine (Kali Linux)
+        ↓
+Metasploit Framework Attack
+        ↓
+Target Machine (Metasploitable)
 
 ##  Exploitation Summary
 
