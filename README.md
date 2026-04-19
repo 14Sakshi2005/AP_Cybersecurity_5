@@ -116,9 +116,12 @@ Verified successful compromise of target system.
 
 |       Step           |         Screenshot                |
 |----------------------|-----------------------------------|
-| Exploit Execution    | screenshots/1_ifconfig.png        |
-| Session Opened       | screenshots/3_Sus_Log_Entries.png |
-| Post Exploitation    | screenshots/2_ShellAccess.png     |
+| Exploit Execution    | <img width="1470" height="956" alt="1_ifconfig" src="https://github.com/user-attachments/assets/85af5a2e-cf97-479f-bf9a-e30d456523d1" />
+        |
+| Session Opened       | <img width="1470" height="956" alt="3_Sus_Log_Entries" src="https://github.com/user-attachments/assets/e455bb39-82f8-4d6b-967b-b9088f8b0227" />
+ |
+| Post Exploitation    | <img width="1470" height="956" alt="2_ShellAccess" src="https://github.com/user-attachments/assets/214c6716-6a3e-45e8-bd88-8ed5dc919be0" />
+     |
 
 
 ##  Key Learning Outcomes
